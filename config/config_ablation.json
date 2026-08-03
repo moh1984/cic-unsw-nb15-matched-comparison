@@ -1,0 +1,23 @@
+{
+  "extra_leakage_columns": [
+    "Bwd Packet Length Min",
+    "Fwd Seg Size Min",
+    "sttl",
+    "ct_state_ttl",
+    "service"
+  ],
+  "common_feature_map": {
+    "dur": "Flow Duration",
+    "spkts": "Total Fwd Packet",
+    "dpkts": "Total Bwd packets",
+    "sbytes": "Total Length of Fwd Packet",
+    "dbytes": "Total Length of Bwd Packet",
+    "smean": "Fwd Packet Length Mean",
+    "dmean": "Bwd Packet Length Mean",
+    "rate": "Flow Packets/s",
+    "sinpkt": "Fwd IAT Mean",
+    "dinpkt": "Bwd IAT Mean",
+    "swin": "FWD Init Win Bytes",
+    "dwin": "Bwd Init Win Bytes"
+  }
+}
