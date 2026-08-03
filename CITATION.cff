@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "CIC-UNSW-NB15 vs. UNSW-NB15: a matched-condition comparison"
+authors:
+  - family-names: Alkhazaleh
+    given-names: Mohammad
+    affiliation: "Isra University, Jordan"
+    orcid: "https://orcid.org/0000-0002-4630-7783"
+  - family-names: Baklizi
+    given-names: Mahmoud
+    affiliation: "University of Petra, Amman, Jordan"
+    orcid: "https://orcid.org/0000-0002-4164-2611"
+  - family-names: Mjlae
+    given-names: Salameh A.
+    affiliation: "Al-Balqa Applied University / Isra University, Jordan"
+    orcid: "https://orcid.org/0000-0002-6750-695X"
+  - family-names: Al-Zghoul
+    given-names: Musab
+    affiliation: "Isra University, Jordan"
+    orcid: "https://orcid.org/0000-0003-1490-9955"
+license: MIT
+repository-code: "https://github.com/moh1984/cic-unsw-nb15-matched-comparison"
+url: "https://github.com/moh1984/cic-unsw-nb15-matched-comparison"
+keywords:
+  - intrusion detection
+  - UNSW-NB15
+  - CIC-UNSW-NB15
+  - CICFlowMeter
+  - machine learning
+  - reproducible research
+preferred-citation:
+  type: article
+  title: "Enhancing Intrusion Detection Performance: A Comparative Study of Machine Learning on CIC-UNSW-NB15 vs. UNSW-NB15"
+  year: 2026
+  journal: "International Journal of Computing and Digital Systems"
+  notes: "Under review"
+  authors:
+    - family-names: Alkhazaleh
+      given-names: Mohammad
+    - family-names: Baklizi
+      given-names: Mahmoud
+    - family-names: Mjlae
+      given-names: Salameh A.
+    - family-names: Al-Zghoul
+      given-names: Musab

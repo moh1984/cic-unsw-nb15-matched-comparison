@@ -1,0 +1,9 @@
+# Versions used for the results reported in the paper.
+pandas==2.2.2
+numpy>=1.26
+scikit-learn==1.6.1
+xgboost==3.3.0
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.8
+shap>=0.44
