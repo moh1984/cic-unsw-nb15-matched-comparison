@@ -1,0 +1,13 @@
+unsw_column,cic_column
+dur,Flow Duration
+spkts,Total Bwd packets
+dpkts,Total Fwd Packet
+sbytes,Total Length of Bwd Packet
+dbytes,Total Length of Fwd Packet
+smean,Bwd Packet Length Mean
+dmean,Fwd Packet Length Mean
+rate,Flow Packets/s
+sinpkt,Bwd IAT Mean
+dinpkt,Fwd IAT Mean
+swin,Bwd Init Win Bytes
+dwin,FWD Init Win Bytes

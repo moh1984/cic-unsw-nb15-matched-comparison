@@ -1,0 +1,2 @@
+dataset,model,train_time_s,inference_us_per_flow,throughput_flows_s
+UNSW,XGB,4.8973 ± 1.3941,9.0709 ± 2.6749,116808.5330 ± 24088.0492
