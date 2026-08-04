@@ -1,0 +1,66 @@
+feature,mean_abs_shap
+num__Bwd Packets/s,3.5554419
+num__FWD Init Win Bytes,2.5922825
+num__Flow IAT Std,0.35359055
+num__Flow IAT Mean,0.34516028
+num__Bwd Header Length,0.34497774
+num__Fwd IAT Min,0.32596976
+num__Fwd IAT Total,0.26047495
+num__Fwd Packets/s,0.24891247
+num__Flow Packets/s,0.23425338
+num__Flow IAT Min,0.23240067
+num__Fwd IAT Max,0.23081179
+num__Fwd Header Length,0.22660263
+num__Fwd IAT Std,0.20934947
+num__Bwd IAT Total,0.18879065
+num__PSH Flag Count,0.18123871
+num__Bwd Init Win Bytes,0.18107162
+num__Packet Length Max,0.17004149
+num__Fwd Packet Length Mean,0.16811992
+num__Bwd IAT Min,0.15413754
+num__Flow IAT Max,0.1426681
+num__Bwd Bytes/Bulk Avg,0.14064048
+num__Total Length of Fwd Packet,0.12949418
+num__Total Length of Bwd Packet,0.11359442
+num__Fwd IAT Mean,0.112783186
+num__Fwd Packet Length Max,0.111959435
+num__Flow Duration,0.10013781
+num__Bwd Bulk Rate Avg,0.09001357
+num__Flow Bytes/s,0.08894676
+num__Packet Length Std,0.08850839
+num__Total Bwd packets,0.07858861
+num__Average Packet Size,0.07740654
+num__Bwd IAT Mean,0.06970802
+num__Fwd Packet Length Min,0.0689759
+num__Packet Length Min,0.0680129
+num__Fwd Packet Length Std,0.06742229
+num__Bwd Packet Length Std,0.064249165
+num__Bwd Packet Length Max,0.0600995
+num__Down/Up Ratio,0.05939775
+num__Bwd Packet Length Mean,0.05658209
+num__Bwd IAT Max,0.056126613
+num__Packet Length Mean,0.04093705
+num__ACK Flag Count,0.040046837
+num__Bwd IAT Std,0.038939558
+num__Total Fwd Packet,0.038473118
+num__FIN Flag Count,0.027404536
+num__Fwd Act Data Pkts,0.021047533
+num__SYN Flag Count,0.0143014565
+num__Subflow Bwd Packets,0.008103135
+num__Subflow Bwd Bytes,0.0074799526
+num__Bwd Packet/Bulk Avg,0.0054233205
+num__Subflow Fwd Bytes,0.005319048
+num__Subflow Fwd Packets,0.0048134443
+num__Active Mean,0.0030255439
+num__Idle Max,0.0018574214
+num__Idle Mean,0.0016169441
+num__Active Min,0.000551356
+num__Idle Std,0.00046089452
+num__Fwd PSH Flags,0.0
+num__Bwd Segment Size Avg,0.0
+num__Packet Length Variance,0.0
+num__RST Flag Count,0.0
+num__Fwd Segment Size Avg,0.0
+num__Active Std,0.0
+num__Active Max,0.0
+num__Idle Min,0.0
