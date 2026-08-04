@@ -1,0 +1,2 @@
+dataset,model,accuracy,balanced_accuracy,precision_attack,recall_attack,f1_attack,macro_f1,FAR,MCC,roc_auc,pr_auc
+E2_CIC,XGB,0.9760 ± 0.0010,0.9770 ± 0.0015,0.9245 ± 0.0044,0.9791 ± 0.0036,0.9510 ± 0.0020,0.9675 ± 0.0014,0.0250 ± 0.0016,0.9358 ± 0.0027,0.9937 ± 0.0006,0.9734 ± 0.0028

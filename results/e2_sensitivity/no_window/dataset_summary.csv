@@ -1,0 +1,14 @@
+,CIC-UNSW-NB15,UNSW-NB15
+raw_rows_in_file,447915,257673
+rows_loaded,100169,99879
+raw_features,76,44
+dropped_identifier_columns,[],"['id', 'attack_cat']"
+rows_dropped_inf_nan,0,0
+rows_dropped_duplicate,23120,34142
+dropped_constant_columns,"['Bwd PSH Flags', 'Fwd URG Flags', 'Bwd URG Flags', 'URG Flag Count', 'CWR Flag Count', 'ECE Flag Count', 'Fwd Bytes/Bulk Avg', 'Fwd Packet/Bulk Avg', 'Fwd Bulk Rate Avg']",[]
+rows_used,77049,65737
+features_used,67,42
+benign,58679,34137
+malicious,18370,31600
+benign_pct,76.16,51.93
+malicious_pct,23.84,48.07

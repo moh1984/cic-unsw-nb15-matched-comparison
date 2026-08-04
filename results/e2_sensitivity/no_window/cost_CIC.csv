@@ -1,0 +1,2 @@
+dataset,model,train_time_s,inference_us_per_flow,throughput_flows_s
+CIC,XGB,8.1219 ± 1.6362,7.5292 ± 0.9341,134286.0198 ± 12768.6994

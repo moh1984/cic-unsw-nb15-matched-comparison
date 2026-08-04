@@ -1,0 +1,2 @@
+dataset,model,accuracy,balanced_accuracy,precision_attack,recall_attack,f1_attack,macro_f1,FAR,MCC,roc_auc,pr_auc
+E2_UNSW,XGB,0.9228 ± 0.0025,0.8703 ± 0.0042,0.8914 ± 0.0068,0.7700 ± 0.0082,0.8263 ± 0.0059,0.8883 ± 0.0037,0.0294 ± 0.0020,0.7804 ± 0.0073,0.9700 ± 0.0015,0.9256 ± 0.0037
